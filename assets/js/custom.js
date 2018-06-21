@@ -1,10 +1,4 @@
 /** 
-  * Template Name: Varsity
-  * Version: 1.1  
-  * Template Scripts
-  * Author: MarkUps
-  * Author URI: http://www.markups.io/
-
   Custom JS
   
 
